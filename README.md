@@ -16,7 +16,9 @@
 
 ## Bankroll Management
 - *1 Unit* 	- This means 1%~2% of your bankroll.
+
 You can define either 1 Unit to be 1% or 2% of your bankroll, basically higher percentage is more aggressive, lower is more conservative. Personally, I define 1 Unit as 1% of my bankroll.
+
 > What's bankroll??
 Bankroll basically means the money you initially have for betting, which is set apart just for betting.
 I update my bankroll once a week, it's suggested to update your bankroll once a week/month for compouding benefits.
