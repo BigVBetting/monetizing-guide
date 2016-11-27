@@ -13,10 +13,10 @@ As a gamblers with years of experience in betting, I figured that to really make
 ### Point proof: Why high win rates on low odds bet is stupid.
 Assume you have $1, and you wanted to double it, let's see if you play a dice with 50% win rate and 90% win rate.
 *There's no house edge, fees, in this demostration. Easier to show you the idea.*
-| Starting        | Chance/Odds           | Winning Bets needed  |
-| ------------- |:-------------:| -----:|
-| $1     | 2.0 (50%) | 1 |
-| $1     | 1.1 (90%)      |   8 (compounded) |
+Starting | Chance/Odds | Wins needed
+--- | --- | ---
+$1 | 2.0 (50%) | 1
+$1 | 1.1 (90%) | 8 (compounded)
 
 
 ## Past Performance
