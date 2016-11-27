@@ -8,11 +8,16 @@
 - [Bankroll Management Strategy](#bankroll-management)
 
 ## Betting Philosophy
-As a gamblers with years of experience in betting, I figured that to really make a profit in long term, some principle has to be followed.<br />
-There's a few things you need to understand, if one claims to be able to *double your bankroll* in a few days, it also indicates he can halve your bankroll in few days as well.<br />
-Futhermore instead of betting on low odds bets (already indicate higher chance), I will bet on something close to an average odds of 2.
-By doing so I'll probably have *Lower win rates*, but you need 4 wins to cover one loss in those groups, but here, it's just one.
-If you learnt advanced statistics, you'll know that's just ridiculous.
+As a gamblers with years of experience in betting, I figured that to really make a profit in long term, some principle has to be followed. There's a few things you need to understand, if one claims to be able to *double your bankroll* in a few days, it also indicates he can halve your bankroll in few days as well. **Futhermore instead of betting on low odds bets (already indicate higher chance), I will bet on something close to an average odds of 2.** By doing so I'll probably have *Lower win rates*, but you need 4 wins to cover one loss in those groups, but here, it's just one. If you learnt advanced statistics, you'll know that's just ridiculous.
+
+### Point proof: Why high win rates on low odds bet is stupid.
+Assume you have $1, and you wanted to double it, let's see if you play a dice with 50% win rate and 90% win rate.
+*There's no house edge, fees, in this demostration. Easier to show you the idea.*
+| Starting        | Chance/Odds           | Winning Bets needed  |
+| ------------- |:-------------:| -----:|
+| $1     | 2.0 (50%) | 1 |
+| $1     | 1.1 (90%)      |   8 (compounded) |
+
 
 ## Past Performance
 I'll separate my picks and my bankroll in different spreadsheet, as it's easier for me.
