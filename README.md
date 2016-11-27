@@ -8,8 +8,8 @@
 - [Bankroll Management Strategy](#bankroll-management)
 
 ## Betting Philosophy
-As a gamblers with years of experience in betting, I figured that to really make a profit in long term, some principle has to be followed.
-There's a few things you need to understand, if one claims to be able to *double your bankroll* in a few days, it also indicates he can halve your bankroll in few days as well.
+As a gamblers with years of experience in betting, I figured that to really make a profit in long term, some principle has to be followed.<br />
+There's a few things you need to understand, if one claims to be able to *double your bankroll* in a few days, it also indicates he can halve your bankroll in few days as well.<br />
 Futhermore instead of betting on low odds bets (already indicate higher chance), I will bet on something close to an average odds of 2.
 By doing so I'll probably have *Lower win rates*, but you need 4 wins to cover one loss in those groups, but here, it's just one.
 If you learnt advanced statistics, you'll know that's just ridiculous.
