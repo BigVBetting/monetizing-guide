@@ -4,9 +4,6 @@
 ## Table of Contents
 - [Preferred Betting Sites](#preferred-betting-sites)
 - [Bankroll Management Strategy](#bankroll-management)
-- [Group Rules](#group-rules)
-- [General Betting Advice](#general-betting-advice)
-- [Buying and Using Bitcoin](#group-rules)
 
 ## Preferred Betting Sites
 > Most of my bets will be placed on the following sites.
@@ -19,8 +16,8 @@
 
 You can define either 1 Unit to be 1% or 2% of your bankroll, basically higher percentage is more aggressive, lower is more conservative. Personally, I define 1 Unit as 1% of my bankroll.
 
-> What's bankroll??
+### What's bankroll??
 Bankroll basically means the money you initially have for betting, which is set apart just for betting.
-I update my bankroll once a week, it's suggested to update your bankroll once a week/month for compouding benefits.
+I update my bankroll *once a week*, it's suggested to update your bankroll once a week/month for compouding benefits.
 
 
