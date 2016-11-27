@@ -14,8 +14,10 @@ As a gamblers with years of experience in betting, I figured that to really make
 Assume you have $1, and you wanted to double it, let's see if you play a dice with 50% win rate and 90% win rate.
 *There's no house edge, fees, in this demostration. Easier to show you the idea.*
 > To double $1 to $2, you just need to win once in a game with odds of 2.0(50%), probabilities to win = (0.5)^1 = 50% , to lose = 100%-50% = 50%
+
 > To double $1 to $2, you need 8 win continuously in games with odds of 1.1(90%), probabilities to win = (0.90)^8 = 43%, to lose = 100%-43% = 64%
 
+**I think now you won't be fooled by "Win rate 80%" anymore. FYI, most professional poker/bettor only seek of 52.4%+ win rates.
 
 ## Past Performance
 I'll separate my picks and my bankroll in different spreadsheet, as it's easier for me.
