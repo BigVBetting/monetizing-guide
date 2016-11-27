@@ -17,7 +17,7 @@ Assume you have $1, and you wanted to double it, let's see if you play a dice wi
 
 > To double $1 to $2, you need 8 win continuously in games with odds of 1.1(90%), probabilities to win = (0.90)^8 = 43%, to lose = 100%-43% = 64%
 
-**I think now you won't be fooled by "Win rate 80%" anymore. FYI, most professional poker/bettor only seek of 52.4%+ win rates.
+**I think now you won't be fooled by "Win rate 80%" anymore. FYI, most professional poker/bettor only seek of 52.4%+ win rates.**
 
 ## Past Performance
 I'll separate my picks and my bankroll in different spreadsheet, as it's easier for me.
