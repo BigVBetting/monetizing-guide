@@ -1,5 +1,5 @@
-# Monetizing's Guides
-> With the right knowledge and follow the principles in bankroll management, I believe everyone can make profit from betting.
+# Monetizing's Betting Guides
+> Betting isn't just about luck, it takes patience, strategies, and self-principle to make consistent profit. Here I'll shed you some light to get started.
 
 ## Table of Contents
 - [Betting Philosophy](#betting-philosophy)
@@ -8,35 +8,27 @@
 - [Bankroll Management Strategy](#bankroll-management)
 
 ## Betting Philosophy
-As a gamblers with years of experience in betting, I figured that to really make a profit in long term, some principle has to be followed. There's a few things you need to understand, if one claims to be able to *double your bankroll* in a few days, it also indicates he can halve your bankroll in few days as well. **Futhermore instead of betting on low odds bets (already indicate higher chance), I will bet on something close to an average odds of 2.** By doing so I'll probably have *Lower win rates*, but you need 4 wins to cover one loss in those groups, but here, it's just one. If you learnt advanced statistics, you'll know that's just ridiculous.
-
-### Point proof: Why high win rates on low odds bet is stupid.
-Assume you have $1, and you wanted to double it, let's see if you play a dice with 50% win rate and 90% win rate.
-*There's no house edge, fees, in this demostration. Easier to show you the idea.*
-> To double $1 to $2, you just need to win once in a game with odds of 2.0(50%), probabilities to win = (0.5)^1 = 50% , to lose = 100%-50% = 50%
-
-> To double $1 to $2, you need 8 win continuously in games with odds of 1.1(90%), probabilities to win = (0.90)^8 = 43%, to lose = 100%-43% = 64%
-
-**I think now you won't be fooled by "Win rate 80%" anymore. FYI, most professional poker/bettor only seek of 52.4%+ win rates.**
+Consistenty is the key, never get caught by your emotion, remember, losing and winning is just a swings, it's not realized until you stop. Always follow your betting strategy, stake carefully, NEVER chase your losses.
 
 ## Past Performance
-I'll separate my picks and my bankroll in different spreadsheet, as it's easier for me.
-- [Monetizing's Bankroll](https://drive.google.com/open?id=1nitlfC2NvxezdvHeVrlAw4jRSJKNIK8q4xf7W0CWlmY)
-- [Monetizing's Picks](https://drive.google.com/open?id=15f3klr2ACx4hfr9nXdj3tzVJu-Wq-LbqYZdMbfdyPbc)
+I've posted the past performance at the official thread in MPGH. [MPGH Thread Link](http://www.mpgh.net/forum/showthread.php?t=1196531)
 
 ## Preferred Betting Sites
 > Most of my bets will be placed on the following sites.
 - [Nitrogen Sports](https://nitrogensports.eu/r/714605)
 - [Cloudbet](https://www.cloudbet.com/)
-- [Bet365](http://www.bet365.com/)
 
-## Bankroll Management
-- *1 Unit* 	- This means 1%~2% of your bankroll.
+## Staking Strategy (How much should I bet?)
+- *1 Unit* 	- This means a decided % of your Bankroll
+In the group I'll use 2.5% as each unit, so when I bet 1 unit, I bet 2.5% of my Bankroll.
 
-You can define either 1 Unit to be 1% or 2% of your bankroll, basically higher percentage is more aggressive, lower is more conservative. Personally, I define 1 Unit as 1% of my bankroll.
+### Fixed Staking
+This is the most simple way and it works. Decide an amount for each unit, say $5, so you'll always bet $5 when the tips say 1 unit.
 
-### What's bankroll??
-Bankroll basically means the money you initially have for betting, which is set apart just for betting.
-I update my bankroll *once a week*, it's suggested to update your bankroll once a week/month for compouding benefits.
+### Propotinal Staking (Dynamic Staing)
+This might be a little bit complicated, but basically, you decide a % instead of a fixed amount, say 1 unit as 2.5%, you bet 2.5% of BR whenever the tips suggested to bet 1unit.
+(Remember you should not change the staking unit too frequently, I suggest re-calculate each unit once a week, not daily.)
+
+
 
 
