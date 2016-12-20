@@ -15,7 +15,7 @@ I've posted the past performance at the official thread in MPGH. [MPGH Thread Li
 
 ## Preferred Betting Sites
 > Most of my bets will be placed on the following sites.
-- [Nitrogen Sports](https://nitrogensports.eu/r/714605)
+- [Nitrogen Sports](https://nitrogensports.eu/r/1450811/)
 - [Cloudbet](https://www.cloudbet.com/)
 
 ## Staking Strategy (How much should I bet?)
@@ -28,6 +28,8 @@ This is the most simple way and it works. Decide an amount for each unit, say $5
 ### Propotinal Staking (Dynamic Staing)
 This might be a little bit complicated, but basically, you decide a % instead of a fixed amount, say 1 unit as 2.5%, you bet 2.5% of BR whenever the tips suggested to bet 1unit.
 (Remember you should not change the staking unit too frequently, I suggest re-calculate each unit once a week, not daily.)
+
+READ MORE ABOUT STAKING: [Pinnacle: Staking: One method to improve your betting](https://www.pinnacle.com/en/betting-articles/betting-strategy/staking-one-method-to-improve-your-betting)
 
 
 
