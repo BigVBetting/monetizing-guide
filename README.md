@@ -6,6 +6,7 @@
 - [Past Performance](#past-perfomance)
 - [Preferred Betting Sites](#preferred-betting-sites)
 - [Bankroll Management Strategy](#bankroll-management)
+- [Resources](#resources)
 
 ## Betting Philosophy
 Consistenty is the key, never get caught by your emotion, remember, losing and winning is just a swings, it's not realized until you stop. Always follow your betting strategy, stake carefully, NEVER chase your losses.
@@ -32,6 +33,12 @@ This might be a little bit complicated, but basically, you decide a % instead of
 
 READ MORE ABOUT STAKING: [Pinnacle: Staking: One method to improve your betting](https://www.pinnacle.com/en/betting-articles/betting-strategy/staking-one-method-to-improve-your-betting)
 
+## Resources
+You joined a betting group that gives you analyzed picks to bet on, that boost your winning chances. Thus we don't serve as a betting boot camp that teach you how to bet, however I'm kind and helpful so I made this whole guide. xD
 
+**1** [Google](http://www.google.com/ncr) - According to a study from Me, people who don't Google before ask is stupid.
+**2** [Bet Tracker(Google Sheet)](https://docs.google.com/spreadsheets/d/1CHth604CgeeaqUPsUhKAOXghzNAzM0GzWsQ1YrPlGE0/edit) - Make copy and use it
 
+### How to use "Bet Tracker(Google Sheet)"
 
+1 
