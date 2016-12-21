@@ -12,6 +12,7 @@ Consistenty is the key, never get caught by your emotion, remember, losing and w
 
 ## Past Performance
 I've posted the past performance at the official thread in MPGH. [MPGH Thread Link](http://www.mpgh.net/forum/showthread.php?t=1196531)
+OR [Google SpreadSheet: Monetizing's Bet Tracker](https://docs.google.com/spreadsheets/d/13oCd8BKSnViK8hfYTdzMxwnoSjjkka3p62I37kr6CJE/pubhtml?gid=680716412&single=true)
 
 ## Preferred Betting Sites
 > Most of my bets will be placed on the following sites.
