@@ -2,6 +2,7 @@
 > Betting isn't just about luck, it takes patience, strategies, and self-principle to make consistent profit. Here I'll shed you some light to get started.
 
 ## Table of Contents
+- [How-to basics](#How-to-basics)
 - [Betting Philosophy](#betting-philosophy)
 - [Past Performance](#past-perfomance)
 - [Preferred Betting Sites](#preferred-betting-sites)
@@ -10,6 +11,8 @@
 
 ## How-to basics
 - [How to bet with Bitcoin? Where to buy Bitcoin, where to bet.](http://www.bettingexpert.com/how-to/bet-with-bitcoins)
+- [Guide to become a knowledged bettor](https://www.bettingexpert.com/academy)
+- [What the fuck is handicap? -1.0? +2.5?](https://www.pinnacle.com/en/betting-articles/betting-strategy/betting-on-soccer-asian-handicap-markets)
 
 ## Betting Philosophy
 Consistenty is the key, never get caught by your emotion, remember, losing and winning is just a swings, it's not realized until you stop. Always follow your betting strategy, stake carefully, NEVER chase your losses.
