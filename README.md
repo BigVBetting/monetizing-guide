@@ -9,7 +9,7 @@
 - [Resources](#resources)
 
 ## How-to basics
-- How to bet with Bitcoin?(http://www.bettingexpert.com/how-to/bet-with-bitcoins)
+- [How to bet with Bitcoin? Where to buy Bitcoin, where to bet.](http://www.bettingexpert.com/how-to/bet-with-bitcoins)
 
 ## Betting Philosophy
 Consistenty is the key, never get caught by your emotion, remember, losing and winning is just a swings, it's not realized until you stop. Always follow your betting strategy, stake carefully, NEVER chase your losses.
