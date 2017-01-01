@@ -28,6 +28,7 @@ Most of my bets will be placed on the following sites.
 ## How to bet with our predictions
 The predictions will usually given with a suggested units to bet with. Simply locate the match in your sportsbook and bet with our prediction. 
 - [YOUTUBE: Learn how to bet on nitrogen](https://www.youtube.com/watch?v=hoRnuE8_x7I)
+- [YOUTUBE: Bet on nitrogensports.eu](https://www.youtube.com/watch?v=Wx4lAlwxAnI)
 
 ## Resources
 - [Google](http://www.google.com/ncr) - According to a study from Me, people who don't Google before ask is stupid.
