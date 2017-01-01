@@ -1,5 +1,5 @@
 # Monetizing's Betting Group Guide
-> This guide will provide some basic guidelines on how to utilize the predictions from the group to yield best profits. It'll also include some basics about betting in **case anyone doesn't know how to Google.**
+This guide will provide some basic guidelines on how to utilize the predictions from the group to yield best profits. It'll also include some basics about betting **in case anyone doesn't know how to Google.**
 
 ## Table of Contents
 - [How-to basics](#How-to-basics)
@@ -26,8 +26,9 @@ Most of my bets will be placed on the following sites.
 - [Cloudbet](https://www.cloudbet.com/)
 
 ## How to bet with our predictions
-
+The predictions will usually given with a suggested units to bet with. Simply locate the match in your sportsbook and bet with our prediction. 
+- [YOUTUBE: Learn how to bet on nitrogen](https://www.youtube.com/watch?v=hoRnuE8_x7I)
 
 ## Resources
-**1** [Google](http://www.google.com/ncr) - According to a study from Me, people who don't Google before ask is stupid.
-**2** [Bet Tracker(Google Sheet)](https://docs.google.com/spreadsheets/d/1CHth604CgeeaqUPsUhKAOXghzNAzM0GzWsQ1YrPlGE0/edit) - Make copy and use it
+- [Google](http://www.google.com/ncr) - According to a study from Me, people who don't Google before ask is stupid.
+- [Bet Tracker(Google Sheet)](https://docs.google.com/spreadsheets/d/1CHth604CgeeaqUPsUhKAOXghzNAzM0GzWsQ1YrPlGE0/edit) - Make copy and use it
