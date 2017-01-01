@@ -9,11 +9,13 @@ This guide will provide some basic guidelines on how to utilize the predictions 
 - [Resources](#resources)
 
 ## How-to basics
+Please Google or read below links before **asking stupid question to show your stupidity.**
 - [How to bet with Bitcoin? Where to buy Bitcoin, where to bet.](http://www.bettingexpert.com/how-to/bet-with-bitcoins)
 - [Guide to become a knowledged bettor](https://www.bettingexpert.com/academy)
 - [What the fuck is handicap? -1.0? +2.5?](https://www.pinnacle.com/en/betting-articles/betting-strategy/betting-on-soccer-asian-handicap-markets)
 - [What the fuck is parlay? Multi-bets?](https://www.sbo.net/strategy/parlays/)
 - [Pinnacle: Staking: One method to improve your betting](https://www.pinnacle.com/en/betting-articles/betting-strategy/staking-one-method-to-improve-your-betting)
+- [Betting Terminology](http://www.donbest.com/customers/sports-betting-terminology/)
 
 ## Our Betting Performance
 Group betting performance is updated daily, you can find them in below links.
