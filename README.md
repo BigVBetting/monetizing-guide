@@ -32,6 +32,11 @@ The predictions will usually given with a suggested units to bet with. Simply lo
 - [YOUTUBE: Learn how to bet on nitrogen](https://www.youtube.com/watch?v=hoRnuE8_x7I)
 - [YOUTUBE: Bet on nitrogensports.eu](https://www.youtube.com/watch?v=Wx4lAlwxAnI)
 
+## Monetizing Tips
+In order to make profit with sports betting, consistency and strict principle is the key, draw up a betting strategy, staking strategy, bankroll management strategy, stick with it, do small adjustment over time. If you bet irregularly such as betting with random units, YOLO bet, picking our picks, making decision when you're emotionally unstable, you'll surely ended up losing money.
+
+**Learn more** about sportsbetting, in order to yield better return with sports betting, understanding it is the first thing you should do, almost 99 people out of 100 lose money because they don't understand what they're doing.
+
 ## Resources
 - [Google](http://www.google.com/ncr) - According to a study from Me, people who don't Google before ask is stupid.
 - [Bet Tracker(Google Sheet)](https://docs.google.com/spreadsheets/d/1CHth604CgeeaqUPsUhKAOXghzNAzM0GzWsQ1YrPlGE0/edit) - Make copy and use it
