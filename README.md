@@ -32,8 +32,8 @@ The predictions will usually given with a **suggested units** to bet with. Simpl
 - [YOUTUBE: Learn how to bet on nitrogen](https://www.youtube.com/watch?v=hoRnuE8_x7I)
 - [YOUTUBE: Bet on nitrogensports.eu](https://www.youtube.com/watch?v=Wx4lAlwxAnI)
 
-**What is 1,2,3 unit?** We use unit-based fixed staking system.Learn more at,
-[Fixed & Variable Staking plan](http://www.gamblingsitesonline.org/sports/articles/fixed-vs-variable-staking/)
+**What is 1,2,3 unit?** We use unit-based fixed staking system. **Learn more at,
+[Fixed & Variable Staking plan](http://www.gamblingsitesonline.org/sports/articles/fixed-vs-variable-staking/)**
 
 ### Type of Picks
 There will be mainly **official** and **unofficial** picks available, where official picks is what you paid for, unofficial picks are not meant to be part of the services but it's more a **_reference only picks._**
