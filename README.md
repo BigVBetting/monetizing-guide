@@ -28,14 +28,15 @@ Most of my bets will be placed on the following sites.
 - [Cloudbet](https://www.cloudbet.com/)
 
 ## How to bet with our predictions
-The predictions will usually given with a suggested units to bet with. Simply locate the match in your sportsbook and bet with our prediction. 
+The predictions will usually given with a **suggested units** to bet with. Simply locate the match in your sportsbook and bet with our prediction.
 - [YOUTUBE: Learn how to bet on nitrogen](https://www.youtube.com/watch?v=hoRnuE8_x7I)
 - [YOUTUBE: Bet on nitrogensports.eu](https://www.youtube.com/watch?v=Wx4lAlwxAnI)
 
-## Monetizing Tips
-In order to make profit with sports betting, consistency and strict principle is the key, draw up a betting strategy, staking strategy, bankroll management strategy, stick with it, do small adjustment over time. If you bet irregularly such as betting with random units, YOLO bet, picking our picks, making decision when you're emotionally unstable, you'll surely ended up losing money.
+**What is 1,2,3 unit?** We use unit-based fixed staking system.Learn more at,
+[Fixed & Variable Staking plan](http://www.gamblingsitesonline.org/sports/articles/fixed-vs-variable-staking/)
 
-**Learn more** about sportsbetting, in order to yield better return with sports betting, understanding it is the first thing you should do, almost 99 people out of 100 lose money because they don't understand what they're doing.
+### Type of Picks
+There will be mainly **official** and **unofficial** picks available, where official picks is what you paid for, unofficial picks are not meant to be part of the services but it's more a **_reference only picks._**
 
 ## Resources
 - [Google](http://www.google.com/ncr) - According to a study from Me, people who don't Google before ask is stupid.
