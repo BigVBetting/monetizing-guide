@@ -25,5 +25,6 @@ The first tips started on Dec 28, till today, the P/L is 17unit.
 Which means if you bet $10 as a unit, this will be profit of $170 in 10 days,
 If you bet $26 as a unit, like me, that'll be profit of $442.
 
-So if you're unit size is larger or equal to me, this investment doesn't sounds so bad at all.
+# Who should be considering to invest?
+If your **regular unit is larger than $30**, this investment doesn't sounds so bad at all.
 One of the interested investor in this group is betting $260 per unit, that automatically translate into a profit of $4,420.
